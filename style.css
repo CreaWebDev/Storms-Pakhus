@@ -1,0 +1,78 @@
+/* Link til én af de brugte Google fonte */ 
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    background-image: url(inc/pages/img/blok1.PNG);
+    background-size: cover;
+    height: 400px;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    color: #dd641c;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;   
+    line-height: 20px;
+}
+
+h3 a {
+    text-decoration: none;
+    font-family: 'Amatic SC', cursive;
+    color: gray;
+    padding: 0.5em; 
+}
+
+/* Hover effekt, der giver orange skrift, når musen bevæges over */
+h3 a:hover {
+    color: #dd641c;
+}
+
+
+h4 {
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;  
+}
+
+p {
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.5em;
+    text-align: left;
+}
+
+p a {
+    font-family: 'Amatic SC', cursive;
+    text-decoration: none;
+    color: black;
+}
+
+p a:hover {
+    font-family: 'Amatic SC', cursive;
+    color: #dd641c;
+}
+
+p:hover {
+    font-family: 'Amatic SC', cursive;
+    color: #dd641c;
+}
+
+
+
+
+/* Denne kode får billedet til at skifte når musen bevæges hen over */
+#knap1 {
+    background-image: url("inc/pages/img/knap1a.png");
+    width: 407px;
+    height: 178px;
+}
+
+#knap1:hover {
+    background-image: url("inc/pages/img/knap1b.png");
+}
