@@ -1,6 +1,7 @@
+
 <!-- Lavet med Bs class "text-center" for at centrere indholdet, samt "img-fluid" for at gøre billederne responsive -->
 
-    <h6 class="text-left">Drikkevarer og barnavn<br>bruges som "knap":<br><br>
+        <h6 class="text-left">Drikkevarer og barnavn<br>bruges som "knap":<br><br>
         <input type="image" img src="inc/pages/img/knap3a.jpg" style="width:60%;" class="img-fluid" alt="knap med øl"><br>
         <p><img src="inc/pages/img/knap3b.jpg" style="width:100%;" class="img-fluid" alt="knap"><br>
         <a href="">STORMFULD</a><br>
@@ -22,4 +23,6 @@
         <input type="image" img src="inc/pages/img/knap2b.png" style="width:50%;" class="img-fluid" alt="fremknap som pil">
     </h6>
 
-
+      <h6 class="text-center">Knap til playlister, kun<br>brugt på Storms Madpakke:<br><br>
+        <input type="image" img src="inc/pages/img/play.png" style="width:80%;" class="img-fluid" alt="knap til playliste"><br>
+    </h6>
