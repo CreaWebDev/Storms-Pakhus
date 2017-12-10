@@ -13,7 +13,8 @@ $currentPage = GetCurrentPage();
     <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">    
 </head>
 <body>
-<!-- Hér ses den første Bootstrap (Bs) kode/class "container.fluid" definerer, at det fulde skærmbillede er i brug -->
+<!-- Hér ses den første Bootstrap (Bs) kode/class
+"container.fluid" definerer, at det fulde skærmbillede er i brug -->
 <main class="container.fluid">
 
 <!-- Header gøres til link til forsiden -->
@@ -24,8 +25,7 @@ $currentPage = GetCurrentPage();
 <!-- Denne Bs class angiver, at nav skal fylde alle 12 kolonner i alle viewport str. -->
        <nav class="col-12">
 
-<!-- "text-center er også en Bs funktion, der centrerer indholdet"-->      
-    <h3 class="text-center"><?php Menu(); ?></h3><br>
+<!-- "text-center er også en Bs funktion, der centrerer indholdet"-->           <h3 class="text-center"><?php Menu(); ?></h3><br>
         </nav><br>
 
     <section class="col-12">
