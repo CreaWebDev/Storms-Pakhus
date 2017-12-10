@@ -1,0 +1,23 @@
+{
+    "pages":
+
+    [{"id":"home","menuTitle": null,"headline":"STYLEGUIDE - STORMS PAKHUS","bodyText":"DETTE ER EN ONLINE STYLEGUIDE. DEN HAR TIL FORMÅL AT BESKRIVE UI PATTERNS FOR STORMS PAKHUS - ODENSE STREET FOOD.<br>UI PATTERNS ER DESIGNMØNSTRENE, DER BENYTTES PÅ WEBSITET FOR AT GIVE DEN BEDSTE BRUGEROPLEVELSE.","includes":"inc/pages/start.php"},
+     
+    {"id":"3rd","menuTitle":"3RD PARTY","headline":"3RD PARTY","bodyText":"FØLGENDE 3RD PARTIES ER BRUGT PÅ SITET:","includes":"inc/pages/3rd.php"}, 
+    {"id":"beskeder","menuTitle":"BESKEDER","headline":"BESKEDER","bodyText":"FØLGENDE BESKEDER BRUGES PÅ SITET:<br><br>","includes":"inc/pages/beskeder.php"}, 
+    
+     {"id":"blokke","menuTitle":"BLOKKE","headline":"BLOKKE","bodyText":"PÅ SITET ER BRUGT FØLGENDE BLOKKE:","includes":"inc/pages/blokke.php"}, 
+    
+     {"id":"farver","menuTitle":"FARVER","headline":"FARVER","bodyText":"SE DESIGN MANUAL FOR UDDYBING OG FARVETEORI. <br> PÅ SITET BRUGES FØLGENDE FARVESKEMA:","includes":"inc/pages/farver.php"}, 
+    {"id":"forms","menuTitle":"FORMULARER","headline":"FORMULARER","bodyText":"FØLGENDE FORMULARER FINDES PÅ SITET:","includes":"inc/pages/forms.php"}, 
+    
+    {"id":"glob","menuTitle":"GLOBALE ELEMENTER","headline":"GLOBALE ELEMENTER","bodyText":"SIDERNE VARIERER MEGET PÅ SITET, OG KUN ÈT GLOBALT ELEMENT ER AT FINDE:","includes":"inc/pages/glob.php"}, 
+
+    {"id":"headings","menuTitle":"HEADINGS","headline":"HEADINGS","bodyText":"DISSE HEADINGS ER BRUGT:","includes":"inc/pages/headings.php"},  
+    {"id":"icons","menuTitle":"IKONER","headline":"IKONER","bodyText":"HER SES DE BRUGTE IKONER:","includes":"inc/pages/icons.php"}, 
+    {"id":"img","menuTitle":"IMAGETYPER","headline":"IMAGETYPER","bodyText":"SITET INDEHOLDER FØLGENDE IMAGETYPER:","includes":"inc/pages/img.php"}, 
+    {"id":"knapper","menuTitle":"KNAPPER","headline":"KNAPPER","bodyText":"KNAPPERNE PÅ SITET SES HÉR:","includes":"inc/pages/knapper.php"}, 
+    {"id":"media","menuTitle":"MEDIER","headline":"MEDIER","bodyText":"WEBSITET INDEHOLDER LINK MED ÉT MEDIE:","includes":"inc/pages/media.php"}, 
+    {"id":"nav","menuTitle":"NAVIGATION","headline":"NAVIGATION","bodyText":"NAVIGATIONEN ER BYGGET OM PÅ FØLGENDE MÅDE:","includes":"inc/pages/nav.php"}]
+
+}
