@@ -17,15 +17,16 @@ $currentPage = GetCurrentPage();
 "container.fluid" definerer, at det fulde skærmbillede er i brug -->
 <main class="container.fluid">
 
-<!-- Header gøres til link til forsiden -->
-   <div class="col-md-12 col-sm-11 col-xs-11">
+<!-- Header gøres til link til forsiden, og div class´en angiver, at header skal fylde alle 12 kolonner, som er den fulde sidebredde -->
+   <div class="col-md-12 col-sm-12 col-xs-12">
     <a href="index.php"><header></header></a></div>
     <br>
     
 <!-- Denne Bs class angiver, at nav skal fylde alle 12 kolonner i alle viewport str. -->
        <nav class="col-12">
 
-<!-- "text-center er også en Bs funktion, der centrerer indholdet"-->           <h3 class="text-center"><?php Menu(); ?></h3><br>
+<!-- "text-center er også en Bs funktion, der centrerer indholdet"--> 
+        <h3 class="text-center"><?php Menu(); ?></h3><br>
         </nav><br>
 
     <section class="col-12">
